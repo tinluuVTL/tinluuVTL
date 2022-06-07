@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/tinluuVTL">
-    <img src="https://bigdata-vn.com/wp-content/uploads/2021/10/1634541589_799_Hinh-anh-ngau-dep-nhat-lam-avatar-Facebook-Zalo.jpg" width="200" alt="LVT">
+    <img
+      src="https://bigdata-vn.com/wp-content/uploads/2021/10/1634541589_799_Hinh-anh-ngau-dep-nhat-lam-avatar-Facebook-Zalo.jpg"
+      width="200" alt="LVT">
   </a>
 </p>
 
@@ -74,7 +76,7 @@ string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là
           <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
         </a>
       </td>
-      
+
       <td width="20%" align="center">
         <a href="https://docs.python.org/3/">
           <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
