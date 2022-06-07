@@ -76,7 +76,12 @@ string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là
           <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
         </a>
       </td>
-
+      <td width="20%" align="center">
+        <a href="https://code.visualstudio.com/docs">
+          <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+          <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+        </a>
+      </td>
       <td width="20%" align="center">
         <a href="https://docs.python.org/3/">
           <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
@@ -85,31 +90,26 @@ string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là
       </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
-        <a href="https://code.visualstudio.com/docs">
-          <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-          <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-        </a>
-      </td>
-      <td width="20%" align="center">
+
+      <td width="25%" align="center">
         <a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
           <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <a href="https://developer.android.com/docs">
           <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <a href="https://docs.flutter.dev/">
           <span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <a href="https://git-scm.com/doc">
           <span>𝗚𝗶𝘁</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
