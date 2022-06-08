@@ -119,13 +119,13 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BtinluuVTL%7D/count.svg"
     alt="tinluuVTL :: Visitor's Count" /></p>
 
-## <p align="center">Top langs :tongue:</p>
+## <p align="center">Top langs</p>
 
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinluuVTL&langs_count=10&theme=tokyonight&layout=compact"
     alt="tinluuVTL :: Top Langs" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
+## <p align="center">Profile stats</p>
 
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api?username=tinluuVTL&show_icons=true&theme=tokyonight"
