@@ -10,7 +10,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 
 
-- ✍ I'm a student of: [Lac Hong University of Technology and Education](https://lhu.edu.vn) (LHU).
+- ✍ I'm a student of: [Lac Hong University](https://lhu.edu.vn) (LHU).
 ## <p align="center">⭐You can reach me at 💥⭐</p>
 
 <p align="center">
@@ -49,12 +49,18 @@
 ## <p align="center">⭐My Skills😎👇👇:</p>
 <p align="center">
   
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-script-web-development-flaticons-lineal-color-flat-icons-2.png" />
+ <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png">
   <img src="https://img.icons8.com/color/48/000000/git.png" />
-  <img src="https://img.icons8.com/color/48/000000/github-2.png" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+  
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" />
+  <img src="https://img.icons8.com/metro/26/undefined/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png" />
+  <img src="https://img.icons8.com/color/48/undefined/python--v1.png" />
+  
+ 
   
 </p>
 
@@ -64,20 +70,20 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+	<a href="https://notepad-plus-plus.org/downloads/">
+		<span>Notepadd++</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/notepadd-full-.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 <a href="https://www.eclipse.org/downloads/">
+		<span>Eclipse</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/eclipse.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
 	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<span>Java</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
       </td>
@@ -89,7 +95,7 @@
       </td>
       <td width="20%" align="center">
 	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 	      </a>
       </td>
@@ -129,23 +135,23 @@
   </tbody>
 </table>
 
-##   <p align="center"> Đam mê lập trình</p>
+##   <p align="center"> Đam mê lập trình 💻</p>
 <p align="center">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" />
       </p>
       
-## <p align="center">Visitor's count </p>
+## <p align="center">Visitor's count 👁️👁️</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BtinluuVTL%7D/count.svg"
     alt="tinluuVTL :: Visitor's Count" /></p>
 
-## <p align="center">Top langs</p>
+## <p align="center">Top langs💯⬆️</p>
 
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinluuVTL&langs_count=10&theme=tokyonight&layout=compact"
     alt="tinluuVTL :: Top Langs" /></p>
 
-## <p align="center">Profile stats</p>
+## <p align="center">Profile stats ⭐⭐</p>
 
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api?username=tinluuVTL&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20Github"
