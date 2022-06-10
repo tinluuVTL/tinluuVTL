@@ -1,5 +1,5 @@
 # <p align="center">Lưu Văn Tín</p>
-
+<h1 align="center">Hi 👋, I'm Tin Luu</h1>
 <p align="center">
   <a href="https://github.com/tinluuVTL">
     <img
@@ -7,19 +7,10 @@
       width="200" alt="LVT">
   </a>
 </p>
+<h3 align="center">A passionate developer from Vietnam </h3>
 
-<h2 align="center">About me</h2>
 
-<b style="color: red;">Name:</b> Lưu Văn Tín
-<br>
-<b style="color: red;">Age:</b> 2002
-<br>
-<b style="color: red;">Gender: </b> Nam
-<br>
-<b style="color: red;">Address: </b> Phú Yên, Việt Nam
-<br><b style="color: red;">University: </b>Trường Đại học Lạc Hồng - LHU
-<br><b style="color: red;">Skills :</b>C, C++, C#, Java, css, Python, HTML, JavaScript
-
+- ✍ I'm a student of: [Lac Hong University of Technology and Education](https://lhu.edu.vn) (LHU).
 ## <p align="center">⭐You can reach me at 💥⭐</p>
 
 <p align="center">
@@ -44,7 +35,31 @@
   </a>
 </p>
 
-## <p align="center">What I use</p>
+<h2 align="center">About me</h2>
+
+<b style="color: red;">Name:</b> Lưu Văn Tín
+<br>
+<b style="color: red;">Age:</b> 2002
+<br>
+<b style="color: red;">Gender: </b> Nam
+<br>
+<b style="color: red;">Address: </b> Phú Yên, Việt Nam
+<br><b style="color: red;">University: </b>Trường Đại học Lạc Hồng - LHU
+<br>
+## <p align="center">⭐My Skills😎👇👇:</p>
+<p align="center">
+  
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" />
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+  
+</p>
+
+
+## <p align="center">⭐What I use 👇👇</p>
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -133,5 +148,5 @@
 ## <p align="center">Profile stats</p>
 
 <p align="center"><img
-    src="https://github-readme-stats.vercel.app/api?username=tinluuVTL&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=tinluuVTL&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20Github"
     alt="tinluuVTL :: Profile Stats" /></p>
