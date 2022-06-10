@@ -114,6 +114,11 @@
   </tbody>
 </table>
 
+##   <p align="center"> Đam mê lập trình</p>
+<p align="center">
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" />
+      </p>
+      
 ## <p align="center">Visitor's count </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BtinluuVTL%7D/count.svg"
