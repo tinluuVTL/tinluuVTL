@@ -8,9 +8,10 @@
   </a>
 </p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-
+<h3 align="center">I am a android developer⭐ </h3>
 
 - ✍ I'm a student of: [Lac Hong University](https://lhu.edu.vn) (LHU).
+
 ## <p align="center">⭐You can reach me at 💥⭐</p>
 
 <p align="center">
