@@ -1,4 +1,7 @@
-# <p align="center">Lưu Văn Tín</p>
+<p align="start">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%1A5B1F&center=true&vCenter=true&lines=Chào+Mừng+Đến+myGithub" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tin Luu</h1>
 <p align="center">
   <a href="https://github.com/tinluuVTL">
@@ -7,6 +10,7 @@
       width="200" alt="LVT">
   </a>
 </p>
+https://metrics.lecoq.io/tinluuvtl?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta
 <h3 align="center">A passionate developer from Vietnam </h3>
 <h3 align="center">I am a android developer⭐ </h3>
 
@@ -146,14 +150,10 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BtinluuVTL%7D/count.svg"
     alt="tinluuVTL :: Visitor's Count" /></p>
 
-## <p align="center">Top langs💯⬆️</p>
 
-<p align="center"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinluuVTL&langs_count=10&theme=tokyonight&layout=compact"
-    alt="tinluuVTL :: Top Langs" /></p>
-
-## <p align="center">Profile stats ⭐⭐</p>
-
-<p align="center"><img
-    src="https://github-readme-stats.vercel.app/api?username=tinluuVTL&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20Github"
-    alt="tinluuVTL :: Profile Stats" /></p>
+##  <p align="center">📊 My Github Stats</p>
+<br>
+<a href="https://github.com/tinluuvtl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinluuvtl&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinluuvtl&theme=buefy&layout=compact" />
+</a>
