@@ -10,7 +10,7 @@
       width="200" alt="LVT">
   </a>
 </p>
-https://metrics.lecoq.io/tinluuvtl?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta
+
 <h3 align="center">A passionate developer from Vietnam </h3>
 <h3 align="center">I am a android developer⭐ </h3>
 
@@ -150,6 +150,10 @@ https://metrics.lecoq.io/tinluuvtl?template=classic&repositories.forks=true&lang
 <p align="center"><img src="https://profile-counter.glitch.me/%7BtinluuVTL%7D/count.svg"
     alt="tinluuVTL :: Visitor's Count" /></p>
 
+## <p align="center">my trophy 🏆🏆</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tinluuvtl"
+    alt="tinluuVTL :: Visitor's Count" /></p>
+
 
 ##  <p align="center">📊 My Github Stats</p>
 <br>
@@ -157,3 +161,9 @@ https://metrics.lecoq.io/tinluuvtl?template=classic&repositories.forks=true&lang
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinluuvtl&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinluuvtl&theme=buefy&layout=compact" />
 </a>
+
+![Metrics](https://metrics.lecoq.io/tinluuvtl?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+- <a href="https://www.facebook.com/vantin.luu.98/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Lưu Văn Tín-blue?style=flat-square&logo=facebook"></a>
+
+- <a href="mailto: vantinluu.vtl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vantinluu.vtl@gmail.com-blue?style=flat-square&logo=gmail"></a>
