@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://tinluu.vercel.app/">
-	  <h2>My Portfolio</h2> 
+	  <h2>My Portfolio: </h2>Link
   </a>
 </p>
 <h3 align="center">A passionate developer from Vietnam </h3>
