@@ -10,7 +10,11 @@
       width="200" alt="LVT">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://tinluu.vercel.app/">
+	  <h2>My Portfolio</h2> 
+  </a>
+</p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <h3 align="center">I am a android developer⭐ </h3>
 
