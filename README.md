@@ -6,12 +6,12 @@
 <p align="center">
   <a href="https://github.com/tinluuVTL">
     <img
-      src="https://bigdata-vn.com/wp-content/uploads/2021/10/1634541589_799_Hinh-anh-ngau-dep-nhat-lam-avatar-Facebook-Zalo.jpg"
+      src="https://tinluu.id.vn/assets/av-37434772.jpg"
       width="200" alt="LVT">
   </a>
 </p>
 <p align="center">
-  <a href="https://tinluu.vercel.app/">
+  <a href="https://tinluu.id.vn">
 📢 My Portfolio💥
   </a>
 </p>
